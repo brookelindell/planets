@@ -2,3 +2,4 @@ planet size color
 jupiter big redspot
 Saturn  big yellow
 Neptune medium blue
+mars small red
